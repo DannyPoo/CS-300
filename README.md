@@ -1,1 +1,3 @@
 # CS-300
+
+This course was to create a project over creating a way to look up courses via coursename and number using different data structures. The data structures that were learned were binary search tree, vector, hash tables, and linked list. For this project I used the vector data structure as I believed it to be the best fit structure wise for this project. The work with this projet has helped make my code further maintaible, readable, adaptable as I can now figure how to implement data structures into my code instead of blinding just coding a project. This make it so I can better setup a project beforehand based on requirements that are needed.
